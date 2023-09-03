@@ -1,0 +1,3 @@
+C:/Users/thoma/PRE52/B.PRE52/dev_parcial_2_labs/cmake-build-debug/CMakeFiles/dev_parcial_2_labs.dir
+C:/Users/thoma/PRE52/B.PRE52/dev_parcial_2_labs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thoma/PRE52/B.PRE52/dev_parcial_2_labs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
